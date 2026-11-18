@@ -21,16 +21,23 @@ I build practical apps and digital products, with a focus on Android development
 
 **Tools:** `Git` `GitHub` `Android Studio`
 
-## 🌟 Featured Projects
+## 📱 Published Apps
 
-### DoctorPoint
-Doctor appointment platform focused on doctor discovery, patient appointments, reviews, and consultation workflows.
+### Doctor Point
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.amstudio.drpoint&hl=en)
 
-### [FitUp](https://github.com/Aakashdevelopers/fitup)
-Fitness-focused application project.
+### LiteBasket
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.amstudio.lightbasket&hl=en)
 
-### StudyMagic
-Educational application project.
+### Exam Uplift
+[Download on Google Play](https://play.google.com/store/apps/details?id=com.amstudio.examuplift&hl=en)
+
+## 🚧 Currently Under Review
+
+- Jodii
+- FitBond
+
+## 🌟 Other Projects
 
 ### [Laki Web IDE](https://github.com/Aakashdevelopers/Laki-Web-IDE)
 Web-based development environment.
