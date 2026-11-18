@@ -4,6 +4,30 @@
 
 I build practical apps and digital products, with a focus on Android development, backend integration, and clean user experiences.
 
+## 💼 Freelancing & Professional Experience
+
+I'm an independent app developer with **3.5+ years of experience** in application development, combining creative problem-solving with practical development skills.
+
+### Experience
+- 🧩 **2 Years – Block-Based Development:** Building applications using visual programming and block-based development tools.
+- 📱 **1.5 Years – Android Studio:** Developing native Android applications using Java, XML, backend integration, and modern Android development practices.
+
+### Services I Offer
+- Custom Android App Development
+- Firebase & Supabase Integration
+- REST API Integration
+- AI-Powered Application Features
+- UI/UX Design & Responsive Layouts
+- Bug Fixing, Optimization & Play Store Deployment
+
+### Freelance Opportunities
+- Custom app development
+- Business and startup projects
+- Long-term development collaborations
+- Turning ideas into production-ready applications
+
+📩 Open to freelance projects and collaborations.
+
 ## 🚀 What I Do
 
 - 📱 Native Android app development with Java
