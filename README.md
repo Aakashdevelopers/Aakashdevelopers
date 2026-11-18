@@ -6,7 +6,7 @@ I build practical apps and digital products, with a focus on Android development
 
 ## 🚀 What I Do
 
-- 📱 Native Android app development with Java and Kotlin
+- 📱 Native Android app development with Java
 - 🔥 Backend integration with Firebase and Supabase
 - 🔐 Secure API and database integration
 - 🤖 AI-powered app features and integrations
@@ -15,7 +15,7 @@ I build practical apps and digital products, with a focus on Android development
 
 ## 🛠️ Tech Stack
 
-**Languages:** `Java` `Kotlin` `Python` `JavaScript` `HTML` `CSS`
+**Languages:** `Java` `Python` `JavaScript` `HTML` `CSS`
 
 **Android & Backend:** `Android SDK` `Firebase` `Supabase` `REST APIs`
 
