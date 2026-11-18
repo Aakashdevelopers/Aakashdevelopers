@@ -23,14 +23,14 @@ I build practical apps and digital products, with a focus on Android development
 
 ## 🌟 Featured Projects
 
-### [DoctorPoint](https://github.com/Aakashdevelopers/DoctorPoint)
-Doctor appointment platform focused on doctor discovery, patient appointments, reviews, and consultation workflows. *(Private repository)*
+### DoctorPoint
+Doctor appointment platform focused on doctor discovery, patient appointments, reviews, and consultation workflows.
 
 ### [FitUp](https://github.com/Aakashdevelopers/fitup)
 Fitness-focused application project.
 
-### [StudyMagic](https://github.com/Aakashdevelopers/StudyMagic)
-Educational application project. *(Private repository)*
+### StudyMagic
+Educational application project.
 
 ### [Laki Web IDE](https://github.com/Aakashdevelopers/Laki-Web-IDE)
 Web-based development environment.
